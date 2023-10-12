@@ -60,11 +60,60 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+[uricsc305@gmail.com].
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
+
+The team will enforce its own rules by unanimously agreeing to adhere to the 
+rules and statements defined here in CONDUCT.md. 
+
+Group members prefer to give and receive feedback directly (i.e. verbal feedback). 
+Feedback should be respectful and meaningful. 
+
+## Decisions
+
+Decisions will be made in a majority rules manner. 
+
+## Attendance Expectations and Promptness
+
+Valid reasons for missing meetings: Illness, family emergencies, mental health,
+and urgent academic conflicts are valid reasons for missing a meeting. If a member 
+cannot make a meeting, they are expected to contact the group beforehand if possible 
+to let them know they are unable to attend. They are also expected to be filled in 
+on what they missed from a group member. 
+
+Members will be expected to meet once per week, at least for an hour, unless given 
+class/lab section time to work on it, in which case a decision will be made whether
+the workload can be handled in that time. 
+
+Group members are expected to report to decided scheduled meetings on time. Group 
+weekly assignment(s) are expected to be turned in on time. If group members are unable 
+to complete their specific tasks on time, other group members will work with them to 
+mitigate tasks and assist where needed. 
+
+## Conversational Courtersies
+
+To enforce active listening and participation, all group members will be respectful of 
+other members' ideas.  This means listening when another group member speaks/shares ideas, 
+engaging with them and taking their ideas into consideration. 
+
+Should a group member disagree with the ideas of another group member, they should state 
+so respectfully, sharing their own reasoning and opinions in a manner that does not degrade 
+the other member. 
+
+## Meeting locations and times
+
+Meetings will be on discord, tentatively decided on Wednesday’s, 7:00PM. 
+If group members decide this time doesn’t work, rescheduling is acceptable
+
+## Agenda Minutes/Notes
+
+Jake will be assigned to take minutes/notes from the meetings. They will be 
+shared in Google doc form. 
+
+## Promptness
 
 ## Enforcement Guidelines
 
