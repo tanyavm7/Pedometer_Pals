@@ -181,4 +181,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 src/tanya_signature.jpg
+<br>
 ![alt text](src/sign.png)
