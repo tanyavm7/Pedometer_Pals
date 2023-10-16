@@ -182,4 +182,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ![alt text](src/tanya_signature.jpg)
 <br>
-![alt text](src/sign.png)
+<img width="369" alt="sign" src="https://github.com/tanyavm7/walk_a_pal/assets/98431552/816bf59d-0376-4c34-9a26-4f73b3678330">
+
