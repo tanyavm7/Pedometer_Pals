@@ -1,7 +1,7 @@
 Observation 1: Change Name 
 - Observation Statement: A lot of people found an issue with the name being pedometer pals, due to it being a children's app and having the word “pedo” in it. Also, the word pedometer might be too advanced for children to understand, making it less appealing to younger audiences. 
 - Supporting Data: That was our biggest suggestion in our survey
-- Team Action (if any): We decided to change the name to STEPETS
+- Team Action (if any): We decided to change the name to Walk a Pal
 
 
 Observation 2: Water Tracker
