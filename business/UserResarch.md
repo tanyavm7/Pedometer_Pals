@@ -12,7 +12,12 @@ Observation 2: Water Tracker
 Observation 3: Active
 - Observation Statement: Many kids are already very active and already play sports and play outside. 
 - Supporting Data: Many of the suggestions for what kids do to stay active included sports, playing outside, and running/walking.  
-- Team Action (if any): Potentially include different sports themes for pets, such as different sport-themed backgrounds and/or items for the pets. Can also implement ways to log activities for physical activity besides walking, such as a general exercise log feature allowing you to get points for other forms of exercise.  
+- Team Action (if any): Potentially include different sports themes for pets, such as different sport-themed backgrounds and/or items for the pets. Can also implement ways to log activities for physical activity besides walking, such as a general exercise log feature allowing you to get points for other forms of exercise.
+
+  Observation 4:  Top 3 pets
+Observation Statement: Dogs, cats and hamsters are the pets most people want to see. 
+Supporting Data: Our survey requested that each respondents choose their 3 favorite pets and the top three choices were dogs (21 people), cat (18 people), hamster (12 people).
+Team Action (if any): At first we will implement our app with just dogs for ease of implementation and then we will try to add animals with priority on cats and hamsters.  
 
 
 Observation 5: In App Games
