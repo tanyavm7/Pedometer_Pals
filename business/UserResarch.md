@@ -1,3 +1,9 @@
+Observation 1: Change Name 
+- Observation Statement: A lot of people found an issue with the name being pedometer pals, due to it being a children's app and having the word “pedo” in it. Also, the word pedometer might be too advanced for children to understand, making it less appealing to younger audiences. 
+- Supporting Data: That was our biggest suggestion in our survey
+- Team Action (if any): We decided to change the name to STEPETS
+
+
 Observation 2: Water Tracker
 - Observation Statement: someone suggested adding a feature that allows you to give your pet water every time the user drinks water, so you can keep track of how much you drink through the app.
 - Supporting Data: This will help encourage kids to drink a healthy amount of water a day
