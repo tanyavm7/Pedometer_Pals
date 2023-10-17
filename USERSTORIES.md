@@ -15,4 +15,4 @@ User Story 3:
 
 User Story 4: 
 - As a general user, I want to be able to spend the coins/currency I earn in some form of item shop, that will allow me to buy various items for my pet.
-- When the pet/pal is customized, there will also be a shop icon allowing for users to spend the currency earned. 
+- Given that we need some form of item shop to provide the user choices, there will be a shop icon that goes to a shop screen when it is clicked, allowing for users to spend the currency earned. 
