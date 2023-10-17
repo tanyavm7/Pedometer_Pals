@@ -15,7 +15,10 @@ User Story 3:
 
 User Story 4: 
 - As a general user, I want to be able to spend the coins/currency I earn in some form of item shop, that will allow me to buy various items for my pet.
-- Given that we need some form of item shop to provide the user choices, there will be a shop icon that goes to a shop screen when it is clicked, allowing for users to spend the currency earned.
+
+- Acceptance Criteria
+  - Given that we need some form of item shop to provide the user choices, there will be a shop icon that goes to a shop screen when it is clicked, allowing for users to spend the currency earned.
+  - Users can purchase items at or below their currency amount
 
 User Story 5:
 - As a general user, I want to be able to play and interact with my pet.
@@ -34,7 +37,11 @@ User Story 6:
   - If the user records this goal, they are rewarded currency to care for their pet.
  
 User Story 7:
-- As a CEO looking to profit from this app, I want to see advertisements built into the app. 
+- As a CEO looking to profit from this app, I want to see advertisements built into the app.
+
+- Acceptnace criteria
+  - Banner ads need to be implemented across bottom or top of app
+  - Reward ads need to be implemented to allow users to watch ads for in-game currency
 
 - Acceptance criteria
   - There should be banner ads at the top of the screen that don't take away from the functionality or appeal of the app. 
