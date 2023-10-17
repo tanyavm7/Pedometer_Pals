@@ -39,7 +39,7 @@ User Story 6:
 User Story 7:
 - As a CEO looking to profit from this app, I want to see advertisements built into the app.
 
-- Acceptnace criteria
+- Acceptance criteria
   - Banner ads need to be implemented across bottom or top of app
   - Reward ads need to be implemented to allow users to watch ads for in-game currency
 
