@@ -12,3 +12,7 @@ User Story 2:
 User Story 3:
 - As a general user I ant to select what kind of puppie I want at walk-a-pal, so I can customize the puppie.
 - Given that we need a place to start, when we create a basic pet customize screen, we will add color for fur, eye color for puppie, and can review the puppie user created.
+
+User Story 4: 
+- As a general user, I want to be able to spend the coins/currency I earn in some form of item shop, that will allow me to buy various items for my pet.
+- When the pet/pal is customized, there will also be a shop icon allowing for users to spend the currency earned. 
