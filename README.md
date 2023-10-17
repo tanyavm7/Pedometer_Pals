@@ -1,1 +1,1 @@
-# Pedometer_Pals
+# walk_a_pal
