@@ -1,5 +1,5 @@
 User Story 1:
-- As a user, I want to be able to create an account on walk-a-pet, so I can customize a profile.
+- As a user, I want to be able to create an account on walk-a-pal, so I can customize a profile.
 - Given that we need a place to start, when we create a basic sign up screen, we will have a good starting spot for the rest of the application.
 
 User Story 2:
@@ -8,3 +8,7 @@ User Story 2:
 - Acceptence criteria
   - When a general user of the app walks while having the app, the app tracks the steps taken and is reflected in the app
   - When a general user walks a certain distance, the user is given a form of currency to interact with the app
+
+User Story 3:
+- As a general user I ant to select what kind of puppie I want at walk-a-pal, so I can customize the puppie.
+- Given that we need a place to start, when we create a basic pet customize screen, we will add color for fur, eye color for puppie, and can review the puppie user created.
