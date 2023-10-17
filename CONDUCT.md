@@ -185,4 +185,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 <img width="369" alt="sign" src="https://github.com/tanyavm7/walk_a_pal/assets/98431552/816bf59d-0376-4c34-9a26-4f73b3678330">
 <br>
 <img src="https://github.com/tanyavm7/walk_a_pal/blob/3e00ad52314db5053e0494b6e84ffc544e6eef66/src/phillipssignature.png" width="400">
-
+<br>
+<img src="https://github.com/tanyavm7/walk_a_pal/blob/main/src/jake_signature.jpg" width="350">
