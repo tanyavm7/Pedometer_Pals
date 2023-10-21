@@ -11,19 +11,25 @@
             "backendUpgradeVersion": 22,
             "blockly": {},
             "categories": [
-                "Education"
+                "Sports"
             ],
             "components": {
                 "children": [
                     {
-                        "id": "de2592bf-b8b2-459d-827f-ed710387edb8"
+                        "id": "ae5f6b24-96f4-4a0c-9cf3-8f4116f68469"
+                    },
+                    {
+                        "id": "d87a953b-b096-4dfb-866d-e07c98b3bb34"
+                    },
+                    {
+                        "id": "b2de9904-a089-4889-9dea-824c642f6622"
                     }
                 ]
             },
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "walk a pal",
+            "projectName": "Walk a Pal",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -121,7 +127,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "1",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
