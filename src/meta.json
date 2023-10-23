@@ -8,21 +8,22 @@
                 }
             },
             "assets": {
-                "65360cc4ec9cfe2ea68394d4": {
+                "6536a8093c63507c9e8242ad": {
                     "externalStorageType": "GCS",
-                    "_id": "65360cc4ec9cfe2ea68394d4",
+                    "_id": "6536a8093c63507c9e8242ad",
                     "size": "80961",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "walk-a-pal-low-resolution-logo-transparent_1.png",
-                    "backendURI": "/project/65360cc4ec9cfe90468394d2/getasset/65360cc4ec9cfe2ea68394d4",
+                    "backendURI": "/project/6536a8093c635047f98242ab/getasset/6536a8093c63507c9e8242ad",
                     "name": "walk-a-pal-low-resolution-logo-transparent_1.png",
-                    "externalName": "users/64f9cfa906d0f0be465baea8/projects/65360cc4ec9cfe90468394d2/assets/65360cc4ec9cfe2ea68394d4",
+                    "externalName": "users/64f9cfa906d0f0be465baea8/projects/6536a8093c635047f98242ab/assets/6536a8093c63507c9e8242ad",
                     "createdAt": "2023-10-23T00:32:34.003Z",
                     "updatedAt": "2023-10-23T00:32:34.003Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/65360cc4ec9cfe90468394d2/assets/65360cc4ec9cfe2ea68394d4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T060349Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b9a587db95c75beee5ee110e9df72771311dde3f46167e89593d0e316bc14c53a1b267bf6b6dffc55791e264d4427f54970d1e1a8ecb2cc5e4accddb77dd3975247289763089d0483b583ffbf1f688ce0157f10413961b72f1dc7906c4f26fbc588e5d8a3e66af1881a3f59928b169d8fe476f8dc5141b3dd9897d5c2bec0b59789e0f084248f1fb2b7eb6a4e3ff4d721b8cc7d3c0621efeaf0be60287b9440458b0bab3879bbcdbd5d0b68597d33c7224f9013779f19f910ab249153bcfea597e61a63bcd4098162e807927eff66e1741ce0a26046e3739df2e80141da8c975e00e9ae1c3c968c9c5e4e98fd730e6577cd06f39f3832603af921b5161b150b2",
-                    "signedUrlExpirationTime": 1698213829489
+                    "id": "6536a8093c63507c9e8242ad",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/6536a8093c635047f98242ab/assets/6536a8093c63507c9e8242ad?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T170654Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=51797d30a435cae95c6ccc226e19712447529fe724fff0aa6c0c8c4862276e1f7b6e4b7cdb08d655bf2b6ec7f8abd4a3b7eecf02d20b0f5669fc530d2a1e4fbfef7bfa073dcfe1dfb35e1da61d6a9824cecbbfa884455473a28fb3dae011018d4c86fb195508eb97efaf6c3cb30d61674fa6ac5b7c405bdc1fa7dcad37b3a060569059a7d978dcfa415d0d25376688c90c062c3b11919ab34c5eb4998e401d2b0a90cf3c2ac9ccff8c0b6a1b88acdb5c26726d79c07d0fc47fe5c9e0c89b780d19490ef16c7aa7219a566dad85173e010d91d086d61073974e11438c0e042e3715a0c0ffc3627765e2eb1020121ac9a2e18e9a2c3feaf138622bcc3c96f5c7bc",
+                    "signedUrlExpirationTime": 1698253614434
                 }
             },
             "backendUpgradeVersion": 22,
@@ -90,7 +91,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Walk a Pal copy1 copy1",
+            "projectName": "Walk a Pal copy1 copy1 copy1 copy1",
             "settings": {
                 "teamId": null,
                 "appName": "Walk a Pal",
@@ -102,8 +103,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
-                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -146,8 +147,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
-                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
