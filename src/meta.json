@@ -7,9 +7,57 @@
                     "children": []
                 }
             },
-            "assets": {},
+            "assets": {
+                "6535bf21ee3387756e942f54": {
+                    "externalStorageType": "GCS",
+                    "_id": "6535bf21ee3387756e942f54",
+                    "size": "80961",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "walk-a-pal-low-resolution-logo-transparent_1.png",
+                    "backendURI": "/project/652e9793cc6f7e85c41125a5/getasset/6535bf21ee3387756e942f54",
+                    "name": "walk-a-pal-low-resolution-logo-transparent_1.png",
+                    "externalName": "users/64fa116f7a354dd665ab4b32/projects/652e9793cc6f7e85c41125a5/assets/6535bf21ee3387756e942f54",
+                    "createdAt": "2023-10-23T00:32:34.003Z",
+                    "updatedAt": "2023-10-23T00:32:34.003Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fa116f7a354dd665ab4b32/projects/652e9793cc6f7e85c41125a5/assets/6535bf21ee3387756e942f54?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T003234Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=60b1820f798abcd4f63efd1212bc4a316f807a8c1159e5a43788c97423f9636be230f36405ea15864950960fe9abf6a20dfda3c1b8ad5f70b45efb356a26aceccf62342318c9bdb3e2c374d4f31a62e368ad0008cf089a89bf20d9e196cca438e7e0be877f297a2c31aba0f60d5ee39c7ed7a6bd92a674a1b407d626d17ef844d85929286b98e9f8c7d5aef03c206f99e567c9227b9a8800fc58c1c379191d536f3baafdcd32e7db1b975aa23b35fc537c952fce240f164b253caeabfc710ab95a1faa6aad5870885c1b21ce8554e450ac25a122cfc277ced020c887e49e06282d909bc924150d4884ac2e9fad45d52f311130a9e3a340cf833c23a3ad526023",
+                    "signedUrlExpirationTime": 1698193954036
+                }
+            },
             "backendUpgradeVersion": 22,
-            "blockly": {},
+            "blockly": {
+                "ae5f6b24-96f4-4a0c-9cf3-8f4116f68469": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "d87a953b-b096-4dfb-866d-e07c98b3bb34": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "b2de9904-a089-4889-9dea-824c642f6622": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
             "categories": [
                 "Sports"
             ],
@@ -32,7 +80,7 @@
             "projectName": "Walk a Pal",
             "settings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Walk a Pal",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -41,8 +89,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -76,7 +124,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Walk a Pal",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -85,8 +133,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
