@@ -8,21 +8,21 @@
                 }
             },
             "assets": {
-                "6535bf21ee3387756e942f54": {
+                "65360cc4ec9cfe2ea68394d4": {
                     "externalStorageType": "GCS",
-                    "_id": "6535bf21ee3387756e942f54",
+                    "_id": "65360cc4ec9cfe2ea68394d4",
                     "size": "80961",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "walk-a-pal-low-resolution-logo-transparent_1.png",
-                    "backendURI": "/project/652e9793cc6f7e85c41125a5/getasset/6535bf21ee3387756e942f54",
+                    "backendURI": "/project/65360cc4ec9cfe90468394d2/getasset/65360cc4ec9cfe2ea68394d4",
                     "name": "walk-a-pal-low-resolution-logo-transparent_1.png",
-                    "externalName": "users/64fa116f7a354dd665ab4b32/projects/652e9793cc6f7e85c41125a5/assets/6535bf21ee3387756e942f54",
+                    "externalName": "users/64f9cfa906d0f0be465baea8/projects/65360cc4ec9cfe90468394d2/assets/65360cc4ec9cfe2ea68394d4",
                     "createdAt": "2023-10-23T00:32:34.003Z",
                     "updatedAt": "2023-10-23T00:32:34.003Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fa116f7a354dd665ab4b32/projects/652e9793cc6f7e85c41125a5/assets/6535bf21ee3387756e942f54?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T003234Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=60b1820f798abcd4f63efd1212bc4a316f807a8c1159e5a43788c97423f9636be230f36405ea15864950960fe9abf6a20dfda3c1b8ad5f70b45efb356a26aceccf62342318c9bdb3e2c374d4f31a62e368ad0008cf089a89bf20d9e196cca438e7e0be877f297a2c31aba0f60d5ee39c7ed7a6bd92a674a1b407d626d17ef844d85929286b98e9f8c7d5aef03c206f99e567c9227b9a8800fc58c1c379191d536f3baafdcd32e7db1b975aa23b35fc537c952fce240f164b253caeabfc710ab95a1faa6aad5870885c1b21ce8554e450ac25a122cfc277ced020c887e49e06282d909bc924150d4884ac2e9fad45d52f311130a9e3a340cf833c23a3ad526023",
-                    "signedUrlExpirationTime": 1698193954036
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/65360cc4ec9cfe90468394d2/assets/65360cc4ec9cfe2ea68394d4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T060349Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b9a587db95c75beee5ee110e9df72771311dde3f46167e89593d0e316bc14c53a1b267bf6b6dffc55791e264d4427f54970d1e1a8ecb2cc5e4accddb77dd3975247289763089d0483b583ffbf1f688ce0157f10413961b72f1dc7906c4f26fbc588e5d8a3e66af1881a3f59928b169d8fe476f8dc5141b3dd9897d5c2bec0b59789e0f084248f1fb2b7eb6a4e3ff4d721b8cc7d3c0621efeaf0be60287b9440458b0bab3879bbcdbd5d0b68597d33c7224f9013779f19f910ab249153bcfea597e61a63bcd4098162e807927eff66e1741ce0a26046e3739df2e80141da8c975e00e9ae1c3c968c9c5e4e98fd730e6577cd06f39f3832603af921b5161b150b2",
+                    "signedUrlExpirationTime": 1698213829489
                 }
             },
             "backendUpgradeVersion": 22,
@@ -56,6 +56,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "dc12c1d7-2970-4b4d-8e02-0d121bcd9f90": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -71,13 +81,16 @@
                     },
                     {
                         "id": "b2de9904-a089-4889-9dea-824c642f6622"
+                    },
+                    {
+                        "id": "dc12c1d7-2970-4b4d-8e02-0d121bcd9f90"
                     }
                 ]
             },
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Walk a Pal",
+            "projectName": "Walk a Pal copy1 copy1",
             "settings": {
                 "teamId": null,
                 "appName": "Walk a Pal",
@@ -90,9 +103,9 @@
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
-                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
-                "stripePublishableKeyTest": null,
-                "stripePublishableKeyLive": null,
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
@@ -101,12 +114,12 @@
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
                 "pushNotificationGeolocationEnabled": null,
-                "yandexAPIKey": null,
-                "imageRecognizerServerURL": null,
-                "imageRecognizerSubscriptionKey": null,
-                "cloudName": null,
-                "cloudinaryAPIKey": null,
-                "cloudinaryAPISecret": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
                 "permissions": {
                     "ios": {}
                 },
@@ -134,9 +147,9 @@
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
-                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
-                "stripePublishableKeyTest": null,
-                "stripePublishableKeyLive": null,
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
@@ -145,12 +158,12 @@
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
                 "pushNotificationGeolocationEnabled": null,
-                "yandexAPIKey": null,
-                "imageRecognizerServerURL": null,
-                "imageRecognizerSubscriptionKey": null,
-                "cloudName": null,
-                "cloudinaryAPIKey": null,
-                "cloudinaryAPISecret": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
                 "permissions": {
                     "ios": {}
                 },
@@ -175,10 +188,31 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "1fdccbd4-f982-4250-ac0f-a565705c851f": {
+                    "scope": "APP",
+                    "name": "currentlySigningUp",
+                    "screenId": "b2de9904-a089-4889-9dea-824c642f6622"
+                },
+                "78ee099b-d922-4c25-8a43-e4cf75275233": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "d87a953b-b096-4dfb-866d-e07c98b3bb34"
+                },
+                "c0ada5dc-c149-4ee5-ba13-435db6206f25": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "d87a953b-b096-4dfb-866d-e07c98b3bb34"
+                },
+                "c8471876-d8ab-4de7-9fd8-678889c4e874": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "d87a953b-b096-4dfb-866d-e07c98b3bb34"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
