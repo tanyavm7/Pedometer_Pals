@@ -1,6 +1,9 @@
 User Story 1:
-- As a user, I want to be able to create an account on walk-a-pal, so I can customize a profile.
-- Given that we need a place to start, when we create a basic sign up screen, we will have a good starting spot for the rest of the application.
+- As a user, I want to be brought to a basic sign-up/sign-in page.
+- Using this sign-up/sign-in page users can create an account or sign in if they already have one. 
+
+Acceptance criteria:
+ - When a general user of the app 
 
 User Story 2:
 - As a general user, I want to be able to track my steps in the app to gain in app currency to interact with the features of the app
