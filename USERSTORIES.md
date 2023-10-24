@@ -46,7 +46,7 @@ ACCEPTANCE CRITERIA:
 USER STORY 7:
 As a CEO looking to profit from this app, I want to see advertisements built into the app.
 
-Acceptance criteria
+ACCEPTANCE CRITERIA:
 - There should be banner ads at the top of the screen that don't take away from the functionality or appeal of the app.
 - If the user wants more currency but can't take enough steps that day, they can also watch a rewarded advertisement for more coins. 
 
