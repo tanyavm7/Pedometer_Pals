@@ -22,11 +22,11 @@
                     "updatedAt": "2023-10-23T00:32:34.003Z",
                     "__v": 0,
                     "id": "6536a8093c63507c9e8242ad",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/6536a8093c635047f98242ab/assets/6536a8093c63507c9e8242ad?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T170654Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=51797d30a435cae95c6ccc226e19712447529fe724fff0aa6c0c8c4862276e1f7b6e4b7cdb08d655bf2b6ec7f8abd4a3b7eecf02d20b0f5669fc530d2a1e4fbfef7bfa073dcfe1dfb35e1da61d6a9824cecbbfa884455473a28fb3dae011018d4c86fb195508eb97efaf6c3cb30d61674fa6ac5b7c405bdc1fa7dcad37b3a060569059a7d978dcfa415d0d25376688c90c062c3b11919ab34c5eb4998e401d2b0a90cf3c2ac9ccff8c0b6a1b88acdb5c26726d79c07d0fc47fe5c9e0c89b780d19490ef16c7aa7219a566dad85173e010d91d086d61073974e11438c0e042e3715a0c0ffc3627765e2eb1020121ac9a2e18e9a2c3feaf138622bcc3c96f5c7bc",
-                    "signedUrlExpirationTime": 1698253614434
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/6536a8093c635047f98242ab/assets/6536a8093c63507c9e8242ad?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T152718Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=89484d5d55699e668d88976010eca476d7c785790418a2d3db04d1650ee2deb98040fe91fbe20a975dd14864b340d8e7d2cd8c03e1bfcf58ba3bb662a8449587d74cb405e92e2de94b223fb670dfcc1879a4d026a171148016d6fc95cd18d8c92ed472b035bfb429d9ad26f59dba303426a7f457b5d17bf85dc2c6deb637580c379de06b7e2212d7482ec9b1cc3353f2146f981138c0e5fc9b14c73d61d900754514e9bd719ebba539d71936055c98fcc61414774273824ee476f1c8f385484309d044b1d2a3e4442a725fed055f67f19a366fcda042bb6589da9beb93f3cd5ec4a1c71e1d5690913dcc5273dd4fb6433c3921755ac728559c895b8ccb43c73a",
+                    "signedUrlExpirationTime": 1698852438942
                 }
             },
-            "backendUpgradeVersion": 22,
+            "backendUpgradeVersion": 23,
             "blockly": {
                 "ae5f6b24-96f4-4a0c-9cf3-8f4116f68469": {
                     "xml": "",
@@ -91,7 +91,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Walk a Pal copy1 copy1 copy1 copy1",
+            "projectName": "Walk a Pal",
             "settings": {
                 "teamId": null,
                 "appName": "Walk a Pal",

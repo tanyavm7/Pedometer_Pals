@@ -1,4 +1,5 @@
 {
+    "id": "ae5f6b24-96f4-4a0c-9cf3-8f4116f68469",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -292,7 +293,6 @@
             "name": "Label1"
         }
     ],
-    "id": "ae5f6b24-96f4-4a0c-9cf3-8f4116f68469",
     "thunkableVersion": 424,
     "name": "Welcome Screen"
 }
