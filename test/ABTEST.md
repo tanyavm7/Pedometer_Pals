@@ -9,11 +9,11 @@ After creating and implementing a base of items for the shop, we can utilize Fir
 <b>Variations:</b> <br>
 We can set a base price for items as being worth the equivalent of 10 miles worth of currency, then for the variants raising or lowering the price by 20%. For the selection of items, we can create one set of items were the items are more "basic" i.e. simple accessories and colors and more "interesting" ones i.e. with more complex designs, more and brighter colors, etc. <br>
 
-<b>A/B Test Name:</b> <br>
-<b>User Story Number:</b> <br>
-<b>Metric:</b> <br>
+<b>A/B Test Name:</b> Puppy Customization Limits<br>
+<b>User Story Number:</b> 3<br>
+<b>Metric:</b>Time Spent Customizing <br>
 <br>
-<b>Hypothesis:</b> <br>
+<b>Hypothesis: Being able to customize your puppy would allow the user to feel more of a connection to the application. </b> <br>
 <br>
 <b>Experiment:</b> <br>
 <br>
