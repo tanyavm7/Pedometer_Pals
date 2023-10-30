@@ -13,7 +13,7 @@ We can set a base price for items as being worth the equivalent of 10 miles wort
 <b>User Story Number:</b> 3<br>
 <b>Metric:</b>Time Spent Customizing <br>
 <br>
-<b>Hypothesis: Being able to customize your puppy would allow the user to feel more of a connection to the application. </b> <br>
+<b>Hypothesis:</b> Being able to customize your puppy would allow the user to feel more of a connection to the application. <br>
 <br>
 <b>Experiment:</b> <br>
 <br>
