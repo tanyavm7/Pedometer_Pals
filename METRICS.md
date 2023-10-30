@@ -1,8 +1,8 @@
 ##HEART Framework and Metrics
 
-Happiness
+#Happiness
 
-Engagement 
+#Engagement 
 
 #Adoption
 * Metric 1 - how to collect the amount of downloads of the app over a recent span of time:
@@ -13,6 +13,6 @@ Engagement
   Analytics can be used to track the number of times this button was clicked. 
 
 
-Retention
+#Retention
 
-Task Success
+#Task Success
