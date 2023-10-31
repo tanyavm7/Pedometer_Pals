@@ -16,7 +16,14 @@
    - Use app store review analysis tools like AppFollow or AppAnnie to track and interpret the sentiment in user reviews.
   
 # Engagement 
+* use time - how long do they use it for at a time: 
+- Number of completed daily fitness goals or challenges.
+- click through rates on push notifications
+-  Interaction frequency with virtual pets
 
+* Frequency of log ins - how often are people logging on to the app:
+- monitor how frequently each user logs onto the app
+- monitor accounts that havent met goals in a while and maybe explore why
 
 # Adoption
 * Download rate - how to collect the amount of downloads of the app over a recent span of time:
