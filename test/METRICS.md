@@ -34,7 +34,11 @@
   Analytics can be used to track the number of times this button was clicked. 
 
 # Retention
-
+* Rate of return visits - How long a user engages with the app and return rate after a period of inactivity
+  - Using Google Analytics, track the average time a user spends on the app over a certain period of time
+  - Track the return rates of existing users after a certain peroid of inactivity
+* Utilization of loyalty programs
+  - Using Google Analytics, track the amount of times a user engages with a loyalty program (i.e. a daily reward)
 
 # Task Success
 * Pedometer accuracy - Accuracy of step tracking data:
