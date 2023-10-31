@@ -1,2 +1,2 @@
 
-<img src="https://github.com/tanyavm7/walk_a_pal/blob/main/res/HEART-Framework.pdf" width="1000">
+<img src="https://github.com/tanyavm7/walk_a_pal/blob/main/res/HEART-Framework.pdf">
