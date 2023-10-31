@@ -4,7 +4,17 @@
 ## HEART Framework and Metrics
 
 # Happiness
-
+* Collection Method - The Net Promoter Score will be collected through email surveys.
+   - Send periodic email surveys to a random sample of app users to ensure a broader and more representative dataset.
+   - Use a tool like MailChimp or SendGrid to send these surveys.
+   - Include the same NPS question as in the in-app survey in the email.
+   - Calculate NPS based on the email survey responses.
+     
+* User Satisfaction Score - Gather user stisfaction scores through user reviews on app stores.
+   - Encourage users to leave reviews on the app stores (e.g., Apple App Store and Google Play Store) by displaying a prompt or link within the app.
+   - Monitor and analyze the reviews regularly to gauge user satisfaction.
+   - Use app store review analysis tools like AppFollow or AppAnnie to track and interpret the sentiment in user reviews.
+  
 # Engagement 
 
 
