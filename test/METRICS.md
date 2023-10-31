@@ -26,6 +26,8 @@
   - Share feature within the app/site will allow people to share their stats/the app to others. Google
   Analytics can be used to track the number of times this button was clicked. 
 
+# Retention
+
 
 # Task Success
 * Pedometer accuracy - Accuracy of step tracking data:
