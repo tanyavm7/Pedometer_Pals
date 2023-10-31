@@ -4,26 +4,41 @@
             "apiComponents": {
                 "ApiContainer": {
                     "id": "ApiContainer",
-                    "children": []
+                    "children": [
+                        {
+                            "type": "Location Sensor",
+                            "translatedName": "Location Sensor",
+                            "isApi": true,
+                            "reactType": "Geo",
+                            "properties": {
+                                "EnableHighAccuracy": false,
+                                "Timeout": 20000,
+                                "MaximumAge": 1000
+                            },
+                            "children": [],
+                            "id": "a039861a-c968-4e48-ae51-0dbda68a6fe2",
+                            "thunkableVersion": 426,
+                            "name": "Location_Sensor1"
+                        }
+                    ]
                 }
             },
             "assets": {
-                "6536a8093c63507c9e8242ad": {
+                "654073fde4d6845a7e8e8050": {
                     "externalStorageType": "GCS",
-                    "_id": "6536a8093c63507c9e8242ad",
+                    "_id": "654073fde4d6845a7e8e8050",
                     "size": "80961",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "walk-a-pal-low-resolution-logo-transparent_1.png",
-                    "backendURI": "/project/6536a8093c635047f98242ab/getasset/6536a8093c63507c9e8242ad",
+                    "backendURI": "/project/654073fde4d6846c008e804e/getasset/654073fde4d6845a7e8e8050",
                     "name": "walk-a-pal-low-resolution-logo-transparent_1.png",
-                    "externalName": "users/64f9cfa906d0f0be465baea8/projects/6536a8093c635047f98242ab/assets/6536a8093c63507c9e8242ad",
+                    "externalName": "users/64f9cfa906d0f0be465baea8/projects/654073fde4d6846c008e804e/assets/654073fde4d6845a7e8e8050",
                     "createdAt": "2023-10-23T00:32:34.003Z",
                     "updatedAt": "2023-10-23T00:32:34.003Z",
                     "__v": 0,
-                    "id": "6536a8093c63507c9e8242ad",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/6536a8093c635047f98242ab/assets/6536a8093c63507c9e8242ad?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T152718Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=89484d5d55699e668d88976010eca476d7c785790418a2d3db04d1650ee2deb98040fe91fbe20a975dd14864b340d8e7d2cd8c03e1bfcf58ba3bb662a8449587d74cb405e92e2de94b223fb670dfcc1879a4d026a171148016d6fc95cd18d8c92ed472b035bfb429d9ad26f59dba303426a7f457b5d17bf85dc2c6deb637580c379de06b7e2212d7482ec9b1cc3353f2146f981138c0e5fc9b14c73d61d900754514e9bd719ebba539d71936055c98fcc61414774273824ee476f1c8f385484309d044b1d2a3e4442a725fed055f67f19a366fcda042bb6589da9beb93f3cd5ec4a1c71e1d5690913dcc5273dd4fb6433c3921755ac728559c895b8ccb43c73a",
-                    "signedUrlExpirationTime": 1698852438942
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/654073fde4d6846c008e804e/assets/654073fde4d6845a7e8e8050?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231031%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231031T032654Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0aee22dabaf403bb918f921c71ed803532de0d0cf4f9934298724caacfb7895d3f057f1fee45e1069001cdc21428998a4517de71363151b13118e4f8c758df29f23c3ed1111e59b60f7a4b7174c18a9785f1d9ebc0070271695346eba7ca2bf907b32f3e0e5a5c6e55bc1b1e005441eb2bde28831ae48db723da55b40a69d43ea09a8c35ea33e25322539f4934e52ed1595e3061029052f04c9eadaea10ade6fba717aa29d24c7b9b3d3f90d5a170969d51507ca2f428e241d59b0d006db05dc7b2710671dd12bd24f37ff784a7835261e8df17cfc2efc3f2a0074851a13c741d671aa2e758b53c59d5cbb0242cde466a85e4c0ad998680f551fab90250a5af3",
+                    "signedUrlExpirationTime": 1698895614243
                 }
             },
             "backendUpgradeVersion": 23,
@@ -67,6 +82,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "96bd969c-bbde-42a0-98ac-78ccfd3ad612": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -85,6 +110,9 @@
                     },
                     {
                         "id": "dc12c1d7-2970-4b4d-8e02-0d121bcd9f90"
+                    },
+                    {
+                        "id": "96bd969c-bbde-42a0-98ac-78ccfd3ad612"
                     }
                 ]
             },
@@ -122,7 +150,11 @@
                 "cloudinaryAPIKey": "",
                 "cloudinaryAPISecret": "",
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSLocationWhenInUseUsageDescription": ""
+                        }
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -166,7 +198,11 @@
                 "cloudinaryAPIKey": "",
                 "cloudinaryAPISecret": "",
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSLocationWhenInUseUsageDescription": ""
+                        }
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -212,6 +248,21 @@
                     "scope": "STORED",
                     "name": "email",
                     "screenId": "d87a953b-b096-4dfb-866d-e07c98b3bb34"
+                },
+                "97cfe2d9-843c-46b1-a15c-e476d23d1efe": {
+                    "scope": "APP",
+                    "name": "score",
+                    "screenId": "96bd969c-bbde-42a0-98ac-78ccfd3ad612"
+                },
+                "8fd09172-b184-4418-9db8-a8ac0493cddf": {
+                    "scope": "APP",
+                    "name": "totalScore",
+                    "screenId": "96bd969c-bbde-42a0-98ac-78ccfd3ad612"
+                },
+                "cbbbf998-e858-48d2-876c-d56ea1a66695": {
+                    "scope": "APP",
+                    "name": "track",
+                    "screenId": "96bd969c-bbde-42a0-98ac-78ccfd3ad612"
                 }
             },
             "defaultDesignerDevice": "PHONE",
