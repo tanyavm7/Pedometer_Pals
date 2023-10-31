@@ -1,8 +1,4 @@
-## HEART Framework and Metrics
 
-# Happiness
-
-# Engagement 
 
 # Adoption
 * Download rate - how to collect the amount of downloads of the app over a recent span of time:
