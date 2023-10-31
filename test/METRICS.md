@@ -1,6 +1,10 @@
 
 <img src="https://github.com/tanyavm7/walk_a_pal/blob/main/res/HEART-Framework.pdf">
-# Retention
+## HEART Framework and Metrics
+
+# Happiness
+
+# Engagement 
 
 # Task Success
 * Pedometer accuracy - Accuracy of step tracking data:
