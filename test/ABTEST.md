@@ -11,7 +11,7 @@ We can set a base price for items as being worth the equivalent of 10 miles wort
 
 <b>A/B Test Name:</b> Puppy Customization Limits<br>
 <b>User Story Number:</b> 3<br>
-<b>Metric:</b>Time Spent Customizing <br>
+<b>Metric:</b>Time Spent Customizing in corolation with overall app use time<br>
 <br>
 <b>Hypothesis:</b> Enabling users to personalize their virtual puppy within the application will help to develop a deeper emotional connection with the platform, thereby fostering a heightened intrinsic motivation to engage with the application. We hypothesise that the introduction of user-customizable puppy features will act as a catalyst, incentivizing increased user activity within the app. Furthermore, our hypothesis suggests that implementing a progressive customization model, wherein users unlock additional customization options over time and with increased application usage, will contribute significantly to enhancing user retention rates.<br>
 <br>
