@@ -37,8 +37,8 @@
                     "createdAt": "2023-10-23T00:32:34.003Z",
                     "updatedAt": "2023-10-23T00:32:34.003Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/654073fde4d6846c008e804e/assets/654073fde4d6845a7e8e8050?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231031%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231031T032654Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0aee22dabaf403bb918f921c71ed803532de0d0cf4f9934298724caacfb7895d3f057f1fee45e1069001cdc21428998a4517de71363151b13118e4f8c758df29f23c3ed1111e59b60f7a4b7174c18a9785f1d9ebc0070271695346eba7ca2bf907b32f3e0e5a5c6e55bc1b1e005441eb2bde28831ae48db723da55b40a69d43ea09a8c35ea33e25322539f4934e52ed1595e3061029052f04c9eadaea10ade6fba717aa29d24c7b9b3d3f90d5a170969d51507ca2f428e241d59b0d006db05dc7b2710671dd12bd24f37ff784a7835261e8df17cfc2efc3f2a0074851a13c741d671aa2e758b53c59d5cbb0242cde466a85e4c0ad998680f551fab90250a5af3",
-                    "signedUrlExpirationTime": 1698895614243
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/654073fde4d6846c008e804e/assets/654073fde4d6845a7e8e8050?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231103%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231103T022037Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4c0a53b29776bb4e51232a257c0ab5c910eb54bd5c654f6a4ef82124df81774da4071a682936ce1aac0d6d40bc5cd365cd717c6f179793b596d66e5308df3f73e53191fb5302102652381adf99664e98a3607b375b35c0d4b703eeec840dea77b48a4b2ff48f507df2e04249138d3612e45e039e54e5582603ffc11230b9f05d453f75899c10efb8321ba95a914796826f69f31049ec2d0188eb4548adaf74dd0cb160a729307367d61ba9c6c882b647942f33b0c522437dac2eb59c36256ffc6562f302956eb4b62443d71cbc8ee527a0b426444d92fd743fbb5e90aea965c48d16e93a3a218dbf08aa50a5aabc9a90a93eec6415472680b61cb4a77813eb10",
+                    "signedUrlExpirationTime": 1699150837012
                 }
             },
             "backendUpgradeVersion": 23,
@@ -131,8 +131,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
+                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -179,8 +179,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
+                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -263,6 +263,11 @@
                     "scope": "APP",
                     "name": "track",
                     "screenId": "96bd969c-bbde-42a0-98ac-78ccfd3ad612"
+                },
+                "80b7dbbe-d2b9-452e-8fc6-6a133a04a6c1": {
+                    "scope": "APP",
+                    "name": "userid",
+                    "screenId": "d87a953b-b096-4dfb-866d-e07c98b3bb34"
                 }
             },
             "defaultDesignerDevice": "PHONE",
