@@ -273,7 +273,8 @@
                 "ParentId": "dc12c1d7-2970-4b4d-8e02-0d121bcd9f90",
                 "position": "absolute",
                 "edgeOffsets": 165,
-                "children": "You're Looking Paw-Some Today"
+                "children": "You're Looking Paw-Some Today",
+                "Font": "Poppins"
             },
             "children": [],
             "id": "e6b8a5f1-c19f-4d8d-abdd-32a3f8ff8efc",
@@ -339,7 +340,8 @@
                 "ParentId": "dc12c1d7-2970-4b4d-8e02-0d121bcd9f90",
                 "position": "absolute",
                 "edgeOffsets": 127,
-                "children": "name"
+                "children": "name",
+                "Font": "Poppins"
             },
             "children": [],
             "id": "ebe3a0c7-a265-4ab8-8cd0-ae6175619f83",
@@ -352,7 +354,7 @@
             "reactType": "Text",
             "properties": {
                 "Text": "Welcome Back",
-                "FontSize": 22,
+                "FontSize": 26,
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
@@ -360,16 +362,16 @@
                 "Height": 60,
                 "Width": 303,
                 "Visible": true,
-                "X": 38,
-                "Y": 82,
-                "RelativeX": 38,
-                "RelativeY": 82,
+                "X": 37,
+                "Y": 67,
+                "RelativeX": 37,
+                "RelativeY": 67,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
-                    "fontSize": 22,
+                    "fontSize": 26,
                     "fontStyle": "normal",
-                    "letterSpacing": 0,
+                    "letterSpacing": 1,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
                     "textDecorationColor": "rgba(0, 0, 0, 1)",
@@ -400,12 +402,15 @@
                     "top": "13.943028485757122%",
                     "lineHeight": 1,
                     "display": "flex",
-                    "textAlign": "center"
+                    "textAlign": "center",
+                    "fontWeight": "normal"
                 },
                 "ParentId": "dc12c1d7-2970-4b4d-8e02-0d121bcd9f90",
                 "position": "absolute",
-                "edgeOffsets": 82,
-                "children": "Welcome Back"
+                "edgeOffsets": 67,
+                "children": "Welcome Back",
+                "Font": "Poppins",
+                "FontWeight": "normal"
             },
             "children": [],
             "id": "eefafcee-3448-45ea-a83c-f34df8117788",
