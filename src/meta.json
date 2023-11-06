@@ -6,6 +6,19 @@
                     "id": "ApiContainer",
                     "children": [
                         {
+                            "type": "Accelerometer",
+                            "translatedName": "Accelerometer",
+                            "isApi": true,
+                            "properties": {
+                                "Enabled": true,
+                                "Sensitivity": "moderate"
+                            },
+                            "children": [],
+                            "id": "a419f914-922e-402a-bda3-ebbd8a6a4d53",
+                            "thunkableVersion": 428,
+                            "name": "Accelerometer1"
+                        },
+                        {
                             "type": "Location Sensor",
                             "translatedName": "Location Sensor",
                             "isApi": true,
@@ -37,8 +50,8 @@
                     "createdAt": "2023-10-23T00:32:34.003Z",
                     "updatedAt": "2023-10-23T00:32:34.003Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/654073fde4d6846c008e804e/assets/654073fde4d6845a7e8e8050?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231031%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231031T032654Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0aee22dabaf403bb918f921c71ed803532de0d0cf4f9934298724caacfb7895d3f057f1fee45e1069001cdc21428998a4517de71363151b13118e4f8c758df29f23c3ed1111e59b60f7a4b7174c18a9785f1d9ebc0070271695346eba7ca2bf907b32f3e0e5a5c6e55bc1b1e005441eb2bde28831ae48db723da55b40a69d43ea09a8c35ea33e25322539f4934e52ed1595e3061029052f04c9eadaea10ade6fba717aa29d24c7b9b3d3f90d5a170969d51507ca2f428e241d59b0d006db05dc7b2710671dd12bd24f37ff784a7835261e8df17cfc2efc3f2a0074851a13c741d671aa2e758b53c59d5cbb0242cde466a85e4c0ad998680f551fab90250a5af3",
-                    "signedUrlExpirationTime": 1698895614243
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfa906d0f0be465baea8/projects/654073fde4d6846c008e804e/assets/654073fde4d6845a7e8e8050?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231106%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231106T034401Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=274fb516996406337c43fe932a2f49f54b5ee8aa20d482fd1acf8b690edec1c7afe0a79e35a5b789b62ca09a80d9c9e8619500304e40c00b7d0decda9bb3f746f9e50b3294edeccd283216e99e378301fae78faa187ef603e2ac5b53f41bfcb38d9e621a7a117229006eb84770e8574ae76c375e88b5031101d5d7e6f2987fc0650b05f04408a0ed33588ee602b241f9cf4bd74a0799f1781ad2dcfb0cc6f1f554f694bd41017126af9326ef683e111f2d75fab945a6444ae154cf2a174e786584eea05936605c811d54fd4c317aaf968d00e13b16f13ee1799e9a5105e6988f6f294b323fdfb4b7001c3df6f19cab6b9bace9a15af6eeca148d37d393cc2adf",
+                    "signedUrlExpirationTime": 1699415041146
                 }
             },
             "backendUpgradeVersion": 23,
@@ -119,7 +132,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Walk a Pal",
+            "projectName": "Accelerometer",
             "settings": {
                 "teamId": null,
                 "appName": "Walk a Pal",
@@ -131,8 +144,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
+                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -179,8 +192,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
+                "firebaseAPIKey": "AIzaSyDgAtSxqF-wK8MMc9qo9pCxAeYt9z04DtA",
+                "firebaseDatabaseURL": "https://pedometer-pals-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -225,7 +238,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "2",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
