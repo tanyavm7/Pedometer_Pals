@@ -1,3 +1,6 @@
+User Story 2 <br>
+https://docs.google.com/presentation/d/13Mmndk6AgGMgU3ULgr8t7vXBtQeSgZYxMxKTted_334/edit?usp=sharing
+
 User Story 3 <br>
 https://docs.google.com/presentation/d/1T_2DeMVF5Vcs7tVRoAAIbDYt67L1n6phD1EOCPQ88tc/edit?usp=sharing
 
