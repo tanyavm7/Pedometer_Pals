@@ -189,6 +189,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "761d010b-be28-4f06-86fa-a4f6171ed6fe": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -216,6 +226,9 @@
                     },
                     {
                         "id": "10039101-dc8c-40a5-b55d-fa5bced464fa"
+                    },
+                    {
+                        "id": "761d010b-be28-4f06-86fa-a4f6171ed6fe"
                     }
                 ]
             },
