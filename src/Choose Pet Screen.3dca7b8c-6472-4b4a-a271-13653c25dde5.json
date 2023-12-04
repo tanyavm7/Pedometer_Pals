@@ -41,20 +41,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -241,7 +232,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -436,7 +426,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 16,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -505,7 +494,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -682,7 +670,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 25,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -816,7 +803,6 @@
                     "top": "55.02248875562219%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "3dca7b8c-6472-4b4a-a271-13653c25dde5",
                 "position": "absolute",
                 "edgeOffsets": 294
@@ -849,7 +835,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 32,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
