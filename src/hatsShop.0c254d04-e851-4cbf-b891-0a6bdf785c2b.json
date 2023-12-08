@@ -1,4 +1,5 @@
 {
+    "id": "0c254d04-e851-4cbf-b891-0a6bdf785c2b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -2457,7 +2458,6 @@
             "name": "shopImageIcon1"
         }
     ],
-    "id": "0c254d04-e851-4cbf-b891-0a6bdf785c2b",
     "thunkableVersion": 434,
     "bindings": null,
     "name": "hatsShop"

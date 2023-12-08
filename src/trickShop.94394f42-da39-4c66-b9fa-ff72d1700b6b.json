@@ -1,4 +1,5 @@
 {
+    "id": "94394f42-da39-4c66-b9fa-ff72d1700b6b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1961,7 +1962,6 @@
             "name": "shopImageIcon3"
         }
     ],
-    "id": "94394f42-da39-4c66-b9fa-ff72d1700b6b",
     "thunkableVersion": 435,
     "bindings": null,
     "name": "trickShop"
