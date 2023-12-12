@@ -2098,13 +2098,13 @@
             "properties": {
                 "Picture": "coin - Copy.png",
                 "resizeMode": "stretch",
-                "Height": 21,
-                "Width": 29,
+                "Height": 23,
+                "Width": 31,
                 "Visible": true,
-                "X": 325,
-                "Y": 9,
-                "RelativeX": 325,
-                "RelativeY": 9,
+                "X": 325.625,
+                "Y": 9.619140625,
+                "RelativeX": 325.625,
+                "RelativeY": 9.619140625,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -2130,7 +2130,7 @@
                 },
                 "ParentId": "761d010b-be28-4f06-86fa-a4f6171ed6fe",
                 "position": "absolute",
-                "edgeOffsets": 9
+                "edgeOffsets": 9.619140625
             },
             "children": [],
             "id": "aa1906ea-4812-413c-bc93-a354faa6e044",
