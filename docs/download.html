@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Global styles for the entire body */
+    body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: rgb(255, 255, 255);
+    }
+
+    /* Styles for the top-level h2 element */
+    h2 {
+      font-size: 70px;
+      color: #fff;
+      width: 100vw; /* Make the h2 span the entire viewport width */
+      text-align: center;
+      margin: 0;
+      padding: 0px;
+      background-color: #98c9a3;
+    }
+    .logo {
+  margin-bottom: 25px; /* Adjusted margin for the logo */
+}
+    /* Styles for the container holding two sections */
+    .section-container1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 1px;
+      background-color: rgb(255, 255, 255); /* Green color for the entire section container */
+      margin-bottom: 70px; 
+    }
+    .section-container2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 1px;
+      background-color: #98c9a3; /* Green color for the entire section container */
+    }
+
+    /* Styles for individual sections within the container */
+    .section {
+      width: 50%; /* Set fixed width for each section */
+      box-sizing: border-box;
+      padding: 20px;
+      text-align: left;
+      margin-bottom: 10px;
+      font-size: 70px;
+    }
+
+    /* Styles for paragraphs within the .section class */
+    .section p {
+      margin-bottom: 1px;
+      font-size: 60px;
+      color: #fff; /* Set text color to white for better visibility */
+    }
+
+    /* Add styles from the first file */
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #fff; /* Set the background color for the upper portion */
+    }
+
+
+
+    .section h2 {
+      font-size: 70px; /* Adjust the font size as needed */
+
+    }
+
+    .section p {
+      margin-bottom: 15px;
+      font-size: 60px;
+    }
+
+    a {
+      text-decoration: none; /* Remove underline from links */
+    }
+
+    button {
+      display: inline-block;
+      margin: 0 20px; /* Adjusted margin for buttons */
+      padding: 15px 50px; /* Adjusted padding for buttons */
+      font-size: 24px; /* Adjusted font size for buttons */
+      color: #fff; /* White text color for buttons */
+      background-color: #98c9a3; /* Green color for buttons */
+      border: none;
+      border-radius: 10px; /* Rounded corners for buttons */
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+
+  <!-- Main Header with logo image -->
+  <div class="logo">
+    <a href="home.html">
+      <img src="katy.png" width="500" height="auto" alt="Phone Image">
+    </a>
+  </div>
+
+  <!-- Container for sections with buttons linking to other pages -->
+  <div class="section-container1">
+    <a href="whatiswalkapal.html"><button>About us!</button></a>
+    <a href="howtouse.html"><button>How to use!</button></a>
+    <a href="download.html"><button>Download now!</button></a>
+  </div>
+
+  <!-- Full-width h2 element at the top of the page -->
+  <h2>Where Can I Get This App?</h2>
+
+  <!-- Container for two side-by-side sections -->
+  <div class="section-container2">
+    <!-- First section with text content -->
+    <div class="section fade-in">
+      <p>
+        Right now, Walk a Pal is in a Internal Testing phase
+
+        <br>
+        <br>
+
+       In other words we want a select few to test it first so we can work out any kinks prior to full release. 
+        
+       <br>
+       <br>
+
+
+      Once we are 100% PAWsitive that we are ready for release, you can find us on Google Play Store.
+        
+
+      </p>
+      <!-- Add button to link to a separate page -->
+    </div>
+    <!-- Second section with an image -->
+    <div class="section fade-in">
+      <iframe src="https://thunkable.site/w/AVasGqq7DWygoWgv9BCDy" width="100%" height="700" frameborder="0"></iframe>
+
+    <p> <p>
+      But for now, you can test our app here as a mobile web app!
+     </p></p>
+    </div>
+  </div>
+
+
+  <!-- Rest of your HTML content -->
+</body>
+
+</html>
