@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Global styles for the entire body */
+    body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: rgb(255, 255, 255);
+    }
+
+    /* Styles for the top-level h2 element */
+    h2 {
+      font-size: 70px;
+      color: #fff;
+      width: 100vw; /* Make the h2 span the entire viewport width */
+      text-align: center;
+      margin: 0;
+      padding: 0px;
+      background-color: #98c9a3;
+    }
+
+    .logo {
+      margin-bottom: 25px; /* Adjusted margin for the logo */
+    }
+
+    /* Styles for the container holding two sections */
+    .section-container1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 1px;
+      background-color: rgb(255, 255, 255); /* Green color for the entire section container */
+      margin-bottom: 70px;
+    }
+
+    .section-container2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 1px;
+      background-color: #98c9a3; /* Green color for the entire section container */
+    }
+
+    /* Styles for individual sections within the container */
+    .section {
+      width: 50%; /* Set fixed width for each section */
+      box-sizing: border-box;
+      padding: 20px;
+      text-align: left;
+      margin-bottom: 10px;
+      font-size: 70px;
+    }
+
+    /* Styles for paragraphs within the .section class */
+    .section p {
+      margin-bottom: 1px;
+      font-size: 60px;
+      color: #fff; /* Set text color to white for better visibility */
+    }
+
+    /* Add styles from the first file */
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #fff; /* Set the background color for the upper portion */
+    }
+
+    .section h2 {
+      font-size: 70px; /* Adjust the font size as needed */
+    }
+
+    .section p {
+      margin-bottom: 15px;
+      font-size: 60px;
+    }
+
+    #banner img {
+      width: 100%;
+      height: 350px;
+      vertical-align: top;
+    }
+
+    a {
+      text-decoration: none; /* Remove underline from links */
+    }
+
+    button {
+      display: inline-block;
+      margin: 0 20px; /* Adjusted margin for buttons */
+      padding: 15px 50px; /* Adjusted padding for buttons */
+      font-size: 24px; /* Adjusted font size for buttons */
+      color: #fff; /* White text color for buttons */
+      background-color: #98c9a3; /* Green color for buttons */
+      border: none;
+      border-radius: 10px; /* Rounded corners for buttons */
+      cursor: pointer;
+    }
+
+    /* New styles for the table */
+    .table-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin: 20px;
+    }
+
+    .table-box {
+      text-align: center;
+      padding: 20px;
+      background-color: #98c9a3;
+      border-radius: 10px;
+    }
+
+    .table-box img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Main Header with logo image -->
+  <div class="logo">
+    <a href="index.html">
+      <img src="katy.png" width="500" height="auto" alt="Phone Image">
+    </a>
+  </div>
+
+  <!-- Container for sections with buttons linking to other pages -->
+  <div class="section-container1">
+    <a href="whatiswalkapal.html"><button>About us!</button></a>
+    <a href="howtouse.html"><button>How to use!</button></a>
+    <a href="download.html"><button>Download now!</button></a>
+  </div>
+
+  <!-- Full-width h2 element at the top of the page -->
+  <h2>How to use Walk a Pal!</h2>
+
+  <!-- Table with titles, sentences, and images -->
+  <div class="table-container">
+    <div class="table-box">
+      <h3>Sign up!</h3>
+      <p>Sign up by pressing the "Sign Up Instead" Button at the bottom of the screen.
+
+        After, you will receive an email asking you to verify your email by pressing the link sent in the email.</p>
+      <img src="dog3.png" alt="Image 1">
+    </div>
+    <div class="table-box">
+      <h3>Title 2</h3>
+      <p>Sentence 2</p>
+      <img src="image2.jpg" alt="Image 2">
+    </div>
+    <div class="table-box">
+      <h3>Title 3</h3>
+      <p>Sentence 3</p>
+      <img src="image3.jpg" alt="Image 3">
+    </div>
+    <div class="table-box">
+      <h3>Title 4</h3>
+      <p>Sentence 4</p>
+      <img src="image4.jpg" alt="Image 4">
+    </div>
+    <div class="table-box">
+      <h3>Title 5</h3>
+      <p>Sentence 5</p>
+      <img src="image5.jpg" alt="Image 5">
+    </div>
+    <div class="table-box">
+      <h3>Title 6</h3>
+      <p>Sentence 6</p>
+      <img src="image6.jpg" alt="Image 6">
+    </div>
+  </div>
+
+  <br>
+  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wMnoKFi5GYs?si=-Z1IduEdr4K-OFrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</body>
+
+</html>
