@@ -1,5 +1,13 @@
 # walk_a_pal
 
+# Information for Internal Testers
+If you've been selected as an Internal Tester for our application, follow these instructions to install Walk-a-Pal on your mobile device:
+1. Access the test by using this [link] (https://play.google.com/apps/internaltest/4701291757902581080).
+2. Upon clicking the link, you'll be directed to the Internal Test screen. Click on the blue "Accept Invite" button.
+4. Once you've accepted the invite, click on the provided link that directs you to the Walk-a-Pal listing in the Google Play Store. From there, you can proceed to download and install the app.
+3. After trying out the app, you have the option to provide feedback using this [form] (https://docs.google.com/forms/d/e/1FAIpQLSeQbPVSbxVoOPHvMvSwaCsGfdnlLxSSMH_wTyq8HHH1SJDLCA/viewform?usp=sf_link). Share your thoughts on what you enjoyed about the app and offer suggestions on areas where the developers can make improvements before the final release.
+
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
